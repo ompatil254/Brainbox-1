@@ -1,4 +1,4 @@
-import { cn } from '/Users/Rushikesh/FRONTEND DOMINATION/BASIC FRONTEND PROJECTS/MiniProject/Miniproject/src/utils/cn';
+import { cn } from "../utlis/cn";
 import React, { useEffect, useRef } from "react";
 import { createNoise3D } from "simplex-noise";
 import { motion } from "framer-motion";
